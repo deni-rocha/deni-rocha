@@ -1,6 +1,6 @@
 ### Oi, tudo certo? 👋
 
-- 🤎 front-end
+- 🤎 Full Stack
 - 😄 Pronomes: ele/dele
 
 <div align="center">
