@@ -1,6 +1,6 @@
 ### Oi, tudo certo? 👋
 
-- 🤎 Front-end e Mobile
+- 🤎 Front-end
 - 😄 Pronomes: ele/dele
 
 <div align="center">
