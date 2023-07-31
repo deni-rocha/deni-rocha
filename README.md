@@ -1,6 +1,6 @@
 ### Oi, tudo certo? 👋
 
-- 🤎 Front-end
+- 🤎 FullStack, JavaScript.
 - 😄 Pronomes: ele/dele
 
   
