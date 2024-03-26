@@ -1,6 +1,7 @@
-### Oi, tudo certo? 👋
+### Oi 👋
 
-- 🤎 FullStack, JavaScript.
-- 😄 Pronomes: ele/dele
+- Back-end developer;
+- TypeScript and Python;
+- Docker and Linux;
 
   
