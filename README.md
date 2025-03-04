@@ -1,7 +1,6 @@
 ### Oi 👋
 
-- Back-end developer;
+- FullStack developer;
 - TypeScript and Python;
-- Docker and Linux;
 
   
